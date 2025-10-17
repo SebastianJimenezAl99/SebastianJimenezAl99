@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy **Sebastián Jiménez Aldana**
+# 👋 ¡Hola! Soy **Sebastián Jiménez**
 
 💻 **Desarrollador de Software y QA** con experiencia en desarrollo **Full Stack** y **aseguramiento de calidad (QA manual y funcional)**.  
 Me especializo en construir, probar y optimizar aplicaciones web modernas con tecnologías actuales y buenas prácticas de desarrollo.
@@ -40,6 +40,4 @@ Aplicación web educativa para gestión de clientes y servicios en centros de es
 - 💼 [GitHub](https://github.com/SebastianJimenezAl99)
 - 📧 **mr.sjaldana@gmail.com**
 
----
 
-⭐ *“El código limpio y las pruebas bien hechas son la mejor carta de presentación de un desarrollador.”*
